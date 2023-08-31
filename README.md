@@ -13,7 +13,7 @@
 - tapping a schedule at the schedules screen will navigate the screen to its corresponding date on the Home Screen
 - Statistics Screen split into Daily Record, Monthly Record, or Yearly Record
 - these records are collected and consolidated from added data in the ACTUAL tab on each schedule
-- additional option of using the statistics screen by utilizing "Manual Inputs" section which will also be consolidated to add data separate from created schedules
+- additional option of using the statistics screen by utilizing "Manual Inputs" section to add data separate from created schedules which will also be consolidated
 
 
 <h3>Development Tools</h3>
