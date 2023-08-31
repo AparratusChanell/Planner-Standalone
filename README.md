@@ -1,4 +1,4 @@
-# Planner-Standalone
+# PersonalPlanner
 > Productivity Mobile Application for Android Platform. Budget, finance, calendar scheduler, or a simple planner via a business-like manner 
 
 <h3>Program Description</h3>
