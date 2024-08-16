@@ -3,7 +3,7 @@
 
 <h3>Program Description</h3>
 
-> <b> A stand-alone mobile application specifically designed to run in an Android Device : </b>
+> <b> A standalone mobile application specifically designed to run in an Android Device : </b>
 
 - composed of Home Screen, Schedules Screen, and Statistics Screen
 - create schedules for vacations and/or daily activities at the Home Screen
